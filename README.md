@@ -33,7 +33,8 @@ Mobile View  :![image](https://github.com/user-attachments/assets/25dec6d3-f7b6-
 
 
 ### 🏠 DashBoard
-Desktop View :![image](https://github.com/user-attachments/assets/8ce34da7-276c-45e1-982e-36742889d24e)
+Desktop View :![image](https://github.com/user-attachments/assets/1ef0a812-4c4d-4fe7-8dd3-e8eea051cb76)
+
 Mobile View  :![image](https://github.com/user-attachments/assets/ec954237-2ddc-43d6-8768-954015c66cbf)
 
 ---
@@ -68,5 +69,7 @@ Mobile View  :![image](https://github.com/user-attachments/assets/ec954237-2ddc-
 - 🔍 Search by Title
 - 🧠 Responsive and accessible UI
 - 🎉 SweetAlert2 for feedback messages
+- when add a task the signed in user's email automatically set to the task
+- when signed in the user can view only the task assigned to the user's email
 
 ---
