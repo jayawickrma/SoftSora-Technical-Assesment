@@ -1,6 +1,6 @@
-# 📝 Task Manager App
+# 📝 Task Manager App Usin MERN
 
-A full-stack Task Management application built with **React**, **Redux Toolkit**, **TypeScript**, **Node.js**, and **MongoDB**. It allows users to add, edit, delete, and filter tasks with priority and status levels. SweetAlert2 is used for beautiful alerts, and the UI is responsive and modern.
+A full-stack Task Management application built with **React**, **Redux Toolkit**, **TypeScript**, **Node.js**, **Express** and **MongoDB**. It allows users to add, edit, delete, and filter tasks with priority and status levels. SweetAlert2 is used for beautiful alerts, and the UI is responsive and modern.
 
 ---
 
