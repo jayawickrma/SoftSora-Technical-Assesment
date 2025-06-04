@@ -7,7 +7,6 @@ A full-stack Task Management application built with **React**, **Redux Toolkit**
 ## 🔗 Live Demo
 
 - 🚀 Frontend: https://soft-sora-technical-test-frontend.vercel.app/
-- 🐳 Dockerized App: [https://your-docker-url](https://your-docker-url)
 
 ---
 
@@ -27,15 +26,18 @@ Link - https://h33333-9225.postman.co/workspace/SoftSora-taskManager~01bd1da8-3d
 
 ## 📸 Screenshots
 
-###  login Page  
-Desktop view :![image](https://github.com/user-attachments/assets/38a880b5-7ccc-4ef6-96de-f0234e315c4e)
-Mobile View  :![image](https://github.com/user-attachments/assets/25dec6d3-f7b6-4cc5-85a7-9e55ad586329)
+### 💻 Desktop View
+![image](https://github.com/user-attachments/assets/38a880b5-7ccc-4ef6-96de-f0234e315c4e)
+![image](https://github.com/user-attachments/assets/5eb42995-1bbb-46fd-bec2-3fc11c9366d6)
+![image](https://github.com/user-attachments/assets/7b83e753-9600-48b5-b749-e60f6c911fd8)
 
 
-### 🏠 DashBoard
-Desktop View :![image](https://github.com/user-attachments/assets/1ef0a812-4c4d-4fe7-8dd3-e8eea051cb76)
 
-Mobile View  :![image](https://github.com/user-attachments/assets/ec954237-2ddc-43d6-8768-954015c66cbf)
+### 📱 Mobile View
+
+
+![image](https://github.com/user-attachments/assets/25dec6d3-f7b6-4cc5-85a7-9e55ad586329)
+![image](https://github.com/user-attachments/assets/7a01b7bd-f216-4bf2-adb1-9327df81f7bb)
 
 ---
 
